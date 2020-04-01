@@ -24,7 +24,7 @@ $user_avatar = 'img/user.jpg';
             <input type="search" name="search" placeholder="Поиск лота у кого-то">
             <input class="main-header__search-btn" type="submit" name="find" value="Найти">
         </form>
-        <a class="main-header__add-lot button" href="add-lot.html">Добавить лот</a>
+        <a class="main-header__add-lot button" href="add-lot.html">Добавить лот - обормот!</a>
 
         <nav class="user-menu">
 
