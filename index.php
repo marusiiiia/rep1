@@ -21,7 +21,7 @@ $user_avatar = 'img/user.jpg';
             <img src="img/logo.svg" width="160" height="39" alt="Логотип компании YetiCave">
         </a>
         <form class="main-header__search" method="get" action="https://echo.htmlacademy.ru">
-            <input type="search" name="search" placeholder="Поиск лота">
+            <input type="search" name="search" placeholder="Поиск лота у кого-то">
             <input class="main-header__search-btn" type="submit" name="find" value="Найти">
         </form>
         <a class="main-header__add-lot button" href="add-lot.html">Добавить лот</a>
